@@ -58,7 +58,7 @@ function toCelsius () {
     }else{
       alert('please choose to convert to farenheight or celcius');
     }
-     hotOrCold(temp, hot, cold);
+     hotOrCold();
   }
 }
 
